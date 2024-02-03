@@ -16,7 +16,7 @@ py -3 -m venv .venv
 
 ### Mac
 ```
-.venv/bin/activate
+. .venv/bin/activate
 ```
 ### Window 
 ```
